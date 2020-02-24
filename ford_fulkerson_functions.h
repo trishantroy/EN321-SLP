@@ -3,5 +3,11 @@
 #include <vector>
 
 namespace ford_fulkerson_functions{
-	double FordFulkerson(std::vector<std::vector<int> > &adjMatrix, int source, int sink);
+	class maxflow_resmatrix
+	{
+	public:
+		double maxflow;
+		std::vector<std::vector<double> > resmatrix;
+	};
+	maxflow_resmatrix FordFulkerson(std::vector<std::vector<double> > &adjMatrix, int source, int sink);
 }

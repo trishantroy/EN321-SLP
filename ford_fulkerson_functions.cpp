@@ -21,7 +21,7 @@
 
 //////////////////////////////////////////////////////////////////////////////////////////////
 // A special BFS version that returns true if there's a path from source to sink.
-bool BFS(std::vector<std::vector<int> > &resAdjMatrix, int &source, int &sink, std::vector<int> &parent)
+bool BFS(std::vector<std::vector<double> > &resAdjMatrix, int &source, int &sink, std::vector<int> &parent)
     {
     // Create an array for all nodes we visited. Initialized to false.
     int n = resAdjMatrix.size();
@@ -45,7 +45,7 @@ bool BFS(std::vector<std::vector<int> > &resAdjMatrix, int &source, int &sink, s
         for(int i = 0; i < n; i++)
             {
             int v = i;
-            int capacity = resAdjMatrix[u][v];
+            double capacity = resAdjMatrix[u][v];
             
             // We find a neighbor that hasn't been visited, and the capacity is bigger than 0.
             if(visited[v] == false && capacity > 0)
@@ -69,27 +69,28 @@ bool BFS(std::vector<std::vector<int> > &resAdjMatrix, int &source, int &sink, s
 
 //////////////////////////////////////////////////////////////////////////////////////////////
 // Use the Ford Fulkerson algorithm. Return the max flow.
-double ford_fulkerson_functions::FordFulkerson(std::vector< std::vector<int> > &adjMatrix, int source, int sink){
-    std::cout << "Source, Sink: " << source << ", " << sink << std::endl;
+    ford_fulkerson_functions::maxflow_resmatrix ford_fulkerson_functions::FordFulkerson(std::vector< std::vector<double> > &adjMatrix, int source, int sink){
+    ford_fulkerson_functions::maxflow_resmatrix ans;
+    // std::cout << "Source, Sink: " << source << ", " << sink << std::endl;
     double maxflow = 0;
     
     // 1. Create the residual graph. (Same as the original graph.)
-    std::vector< std::vector<int> > resAdjMatrix;
+    std::vector< std::vector<double> > resAdjMatrix;
     int n = adjMatrix.size();
     for(int i = 0; i < n; i++)
         {
-        std::vector<int> row;
+        std::vector<double> row;
         resAdjMatrix.push_back(row);
         for(int j = 0; j < adjMatrix[i].size(); j++)
             {
             resAdjMatrix[i].push_back(adjMatrix[i][j]);
             }
         }
-    // for(int i = 0; i < resAdjMatrix.size(); i++){
-    //     for(int j = 0; j < resAdjMatrix[i].size(); j++){
-    //         std::cout << "resAdjMatrix: " << i << ", " << j << ", " << resAdjMatrix[i][j] << std::endl;
-    //     }
-    // }
+    /*for(int i = 0; i < resAdjMatrix.size(); i++){
+        for(int j = 0; j < resAdjMatrix[i].size(); j++){
+            std::cout << "resAdjMatrix: " << i << ", " << j << ", " << resAdjMatrix[i][j] << std::endl;
+        }
+    }*/
     
     // 2. Create an empty parent array for BFS to store the augmenting path. 
     std::vector<int> parent;
@@ -100,9 +101,9 @@ double ford_fulkerson_functions::FordFulkerson(std::vector< std::vector<int> > &
     
     // 3. Keep calling BFS to check for an augmenting path (from the source to the sink...
     while(BFS(resAdjMatrix, source, sink, parent) == true){
-        std::cout << "Inside BFS" << std::endl;
+        // std::cout << "Inside BFS" << std::endl;
         // 4. Find the max flow through the path we just found.
-        int pathflow = 10000007;
+        double pathflow = 10000007;
         
         // Go through the path we just found. Iterate through the path.
         int v = sink;
@@ -110,7 +111,7 @@ double ford_fulkerson_functions::FordFulkerson(std::vector< std::vector<int> > &
             int u = parent[v]; // The parent.
             
             // Update the pathflow to this capacity if it's smaller
-            int capacity = resAdjMatrix[u][v];
+            double capacity = resAdjMatrix[u][v];
             // if(capacity < pathflow){
             //     std::cout << "debug1: " << pathflow << ", " << capacity << ", " << u << ", " << v << std::endl;
             // }
@@ -135,10 +136,17 @@ double ford_fulkerson_functions::FordFulkerson(std::vector< std::vector<int> > &
         }
         
         // 6. Add this path's flow to our total max flow so far.
-        std::cout << "Path flow: " << pathflow << std::endl;
+        // std::cout << "Path flow: " << pathflow << std::endl;
         maxflow += pathflow;
+    }
+    /*for(int i = 0; i < resAdjMatrix.size(); i++){
+        for(int j = 0; j < resAdjMatrix[i].size(); j++){
+            std::cout << "resAdjMatrix: " << i << ", " << j << ", " << resAdjMatrix[i][j] << std::endl;
         }
-    
-    return maxflow;
+    }*/
+
+    ans.maxflow = maxflow;
+    ans.resmatrix = resAdjMatrix;
+    return ans;
     }
 //////////////////////////////////////////////////////////////////////////////////////////////
