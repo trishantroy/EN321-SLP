@@ -1,0 +1,4879 @@
+Starting....
+Line: 2, 1, 9.5791
+Line: 3, 1, 22.5637
+Line: 12, 2, 15.5338
+Line: 5, 3, 9.03699
+Line: 12, 3, 5.98228
+Line: 5, 4, 122.372
+Line: 4, 11, 13.9073
+Line: 5, 6, 18.0846
+Line: 5, 11, 14.0534
+Line: 6, 7, 46.9474
+Line: 7, 12, 28.5098
+Line: 8, 5, 32.6825
+Line: 9, 8, 37.4532
+Line: 8, 30, 19.7691
+Line: 10, 9, 30.9567
+Line: 11, 12, 48.8204
+Line: 11, 13, 13.0871
+Line: 12, 14, 13.5324
+Line: 12, 16, 11.6208
+Line: 12, 117, 6.95344
+Line: 13, 15, 3.9143
+Line: 14, 15, 4.90495
+Line: 17, 15, 21.9058
+Line: 15, 19, 24.2796
+Line: 15, 33, 7.68791
+Line: 17, 16, 5.38404
+Line: 17, 18, 19.2395
+Line: 17, 31, 6.1226
+Line: 17, 113, 31.7923
+Line: 18, 19, 19.7808
+Line: 20, 19, 8.3554
+Line: 34, 19, 3.87306
+Line: 21, 20, 11.5141
+Line: 22, 21, 10.078
+Line: 23, 22, 6.14868
+Line: 23, 24, 19.6007
+Line: 25, 23, 12.2689
+Line: 23, 32, 8.36272
+Line: 70, 24, 2.4301
+Line: 24, 72, 4.95089
+Line: 25, 27, 6.02145
+Line: 26, 25, 26.178
+Line: 26, 30, 11.578
+Line: 27, 28, 11.4137
+Line: 27, 32, 12.6748
+Line: 27, 115, 13.1764
+Line: 28, 29, 10.2846
+Line: 31, 29, 28.7213
+Line: 30, 17, 25.7732
+Line: 30, 38, 18.4505
+Line: 32, 31, 9.71731
+Line: 32, 113, 4.7145
+Line: 32, 114, 15.9563
+Line: 37, 33, 6.7595
+Line: 34, 36, 35.4863
+Line: 37, 34, 102.645
+Line: 34, 43, 5.77704
+Line: 35, 36, 95.7573
+Line: 37, 35, 19.6453
+Line: 37, 39, 9.02903
+Line: 37, 40, 5.61298
+Line: 38, 37, 26.6667
+Line: 65, 38, 10.0999
+Line: 39, 40, 15.8137
+Line: 40, 41, 19.6801
+Line: 42, 40, 5.22928
+Line: 42, 41, 7.08774
+Line: 49, 42, 3.0228
+Line: 49, 42, 3.0228
+Line: 44, 43, 3.95539
+Line: 45, 44, 10.7709
+Line: 46, 45, 7.0733
+Line: 49, 45, 5.04597
+Line: 47, 46, 7.54357
+Line: 48, 46, 5.04222
+Line: 49, 47, 15.3014
+Line: 69, 47, 3.44426
+Line: 49, 48, 18.6642
+Line: 49, 50, 12.5314
+Line: 49, 51, 6.87924
+Line: 49, 54, 3.35484
+Line: 49, 54, 3.29274
+Line: 66, 49, 10.6785
+Line: 66, 49, 10.6785
+Line: 69, 49, 2.95297
+Line: 50, 57, 7.03549
+Line: 51, 52, 16.0757
+Line: 51, 58, 13.1082
+Line: 52, 53, 5.93678
+Line: 54, 53, 8.01265
+Line: 54, 55, 13.7567
+Line: 54, 56, 100.623
+Line: 59, 54, 4.25981
+Line: 56, 55, 63.016
+Line: 59, 55, 4.52607
+Line: 57, 56, 9.75526
+Line: 58, 56, 9.75526
+Line: 59, 56, 3.78486
+Line: 59, 56, 3.96622
+Line: 60, 59, 6.73742
+Line: 61, 59, 6.51278
+Line: 61, 60, 72.6971
+Line: 62, 60, 17.4117
+Line: 61, 62, 25.9792
+Line: 66, 62, 4.47898
+Line: 67, 62, 8.34649
+Line: 63, 59, 25.9067
+Line: 64, 63, 49.8161
+Line: 64, 61, 37.3134
+Line: 65, 64, 32.982
+Line: 65, 66, 27.027
+Line: 65, 68, 62.2688
+Line: 66, 67, 9.62072
+Line: 69, 68, 27.027
+Line: 81, 68, 49.3202
+Line: 68, 116, 246.048
+Line: 69, 70, 7.66312
+Line: 69, 75, 7.77927
+Line: 69, 77, 9.46781
+Line: 70, 71, 27.3379
+Line: 70, 74, 7.23361
+Line: 75, 70, 6.78643
+Line: 71, 72, 5.39249
+Line: 71, 73, 21.6363
+Line: 75, 74, 23.5725
+Line: 77, 75, 4.79067
+Line: 75, 118, 19.9052
+Line: 77, 76, 6.4718
+Line: 118, 76, 17.6
+Line: 77, 78, 77.1752
+Line: 80, 77, 19.4579
+Line: 80, 77, 9.17109
+Line: 82, 77, 11.0674
+Line: 79, 78, 39.9945
+Line: 80, 79, 13.8681
+Line: 80, 96, 5.39232
+Line: 80, 97, 10.5069
+Line: 80, 98, 9.0423
+Line: 80, 99, 4.74061
+Line: 80, 81, 27.027
+Line: 83, 82, 26.0939
+Line: 96, 82, 18.0438
+Line: 84, 83, 6.84703
+Line: 85, 83, 6.48845
+Line: 85, 84, 14.1127
+Line: 85, 86, 7.81966
+Line: 88, 85, 9.62072
+Line: 89, 85, 5.72596
+Line: 87, 86, 4.77739
+Line: 89, 88, 13.7847
+Line: 89, 90, 5.12805
+Line: 89, 90, 9.75597
+Line: 89, 92, 19.4321
+Line: 89, 92, 6.13831
+Line: 90, 91, 11.4451
+Line: 92, 91, 7.52124
+Line: 92, 93, 11.2819
+Line: 92, 94, 6.05476
+Line: 92, 100, 3.31089
+Line: 92, 102, 17.4711
+Line: 93, 94, 13.0682
+Line: 94, 95, 22.0444
+Line: 94, 96, 10.9928
+Line: 94, 100, 16.4826
+Line: 96, 95, 17.4488
+Line: 97, 96, 11.0895
+Line: 100, 98, 5.45406
+Line: 100, 99, 12.0093
+Line: 101, 100, 7.73969
+Line: 100, 103, 18.2203
+Line: 100, 104, 4.78639
+Line: 100, 106, 4.22196
+Line: 102, 101, 8.72069
+Line: 103, 104, 6.05648
+Line: 103, 105, 5.84521
+Line: 103, 110, 5.392
+Line: 104, 105, 25.5852
+Line: 105, 106, 17.7107
+Line: 105, 107, 5.24878
+Line: 105, 108, 13.3353
+Line: 106, 107, 5.24878
+Line: 108, 109, 32.6218
+Line: 109, 110, 12.3285
+Line: 111, 110, 12.7162
+Line: 110, 112, 14.5771
+Line: 114, 115, 93.8853
+Gen: 4
+Gen: 6
+Gen: 8
+Gen: 10
+Gen: 12
+Gen: 15
+Gen: 18
+Gen: 19
+Gen: 24
+Gen: 25
+Gen: 26
+Gen: 27
+Gen: 31
+Gen: 32
+Gen: 34
+Gen: 36
+Gen: 40
+Gen: 42
+Gen: 46
+Gen: 49
+Gen: 54
+Gen: 55
+Gen: 56
+Gen: 59
+Gen: 61
+Gen: 62
+Gen: 65
+Gen: 66
+Gen: 69
+Gen: 70
+Gen: 72
+Gen: 73
+Gen: 74
+Gen: 76
+Gen: 77
+Gen: 80
+Gen: 82
+Gen: 85
+Gen: 87
+Gen: 89
+Gen: 90
+Gen: 91
+Gen: 92
+Gen: 99
+Gen: 100
+Gen: 103
+Gen: 104
+Gen: 105
+Gen: 107
+Gen: 110
+Gen: 111
+Gen: 112
+Gen: 113
+Gen: 116
+Load: 1,54.14,8.66
+Load: 2,21.23,9.55
+Load: 3,41.4,10.62
+Load: 4,31.85,12.74
+Load: 6,55.2,23.35
+Load: 7,20.17,2.12
+Load: 11,74.31,24.42
+Load: 12,49.89,10.62
+Load: 13,36.09,16.99
+Load: 14,14.86,1.06
+Load: 15,95.54,31.85
+Load: 16,26.54,10.62
+Load: 17,11.68,3.18
+Load: 18,63.69,36.09
+Load: 19,47.77,26.54
+Load: 20,19.11,3.18
+Load: 21,14.86,8.49
+Load: 22,10.62,5.31
+Load: 23,7.43,3.18
+Load: 27,65.82,13.8
+Load: 28,18.05,7.43
+Load: 29,25.48,4.25
+Load: 31,45.65,28.66
+Load: 32,62.63,24.42
+Load: 33,24.42,9.55
+Load: 34,62.63,27.6
+Load: 35,35.03,9.55
+Load: 36,32.91,18.05
+Load: 39,27,11
+Load: 40,20,23
+Load: 41,37,10
+Load: 42,37,23
+Load: 43,18,7
+Load: 44,16,8
+Load: 45,53,22
+Load: 46,28,10
+Load: 47,34,0
+Load: 48,20,11
+Load: 49,87,30
+Load: 50,17,4
+Load: 51,17,8
+Load: 52,18,5
+Load: 53,23,11
+Load: 54,113,32
+Load: 55,63,22
+Load: 56,84,18
+Load: 57,12,3
+Load: 58,12,3
+Load: 59,277,113
+Load: 60,78,3
+Load: 62,77,14
+Load: 66,39,18
+Load: 67,28,7
+Load: 70,66,20
+Load: 74,68,27
+Load: 75,47,11
+Load: 76,68,36
+Load: 77,61,28
+Load: 78,71,26
+Load: 79,39,32
+Load: 80,130,26
+Load: 82,54,27
+Load: 83,20,10
+Load: 84,11,7
+Load: 85,24,15
+Load: 86,21,10
+Load: 88,48,10
+Load: 90,78,42
+Load: 92,65,10
+Load: 93,12,7
+Load: 94,30,16
+Load: 95,42,31
+Load: 96,38,15
+Load: 97,15,9
+Load: 98,34,8
+Load: 100,37,18
+Load: 101,22,15
+Load: 102,5,3
+Load: 103,23,16
+Load: 104,38,25
+Load: 105,31,26
+Load: 106,43,16
+Load: 107,28,12
+Load: 108,2,1
+Load: 109,8,3
+Load: 110,39,30
+Load: 112,25,13
+Load: 114,8.49,3.18
+Load: 115,23.35,7.43
+Load: 117,21.23,8.49
+Load: 118,33,15
+Source, Sink: 4, 1
+--------Maximum flow: 13.9073---------
+Flow through edges in max flow condition: 
+Node 2 to Node 1 with flow 9.5791
+Node 3 to Node 1 with flow 4.32825
+Node 4 to Node 11 with flow 13.9073
+Node 11 to Node 12 with flow 13.9073
+Node 12 to Node 2 with flow 9.5791
+Node 12 to Node 3 with flow 4.32825
+------------------------------------
+Source, Sink: 4, 2
+--------Maximum flow: 13.9073---------
+Flow through edges in max flow condition: 
+Node 4 to Node 11 with flow 13.9073
+Node 11 to Node 12 with flow 13.9073
+Node 12 to Node 2 with flow 13.9073
+------------------------------------
+Source, Sink: 4, 3
+--------Maximum flow: 5.98228---------
+Flow through edges in max flow condition: 
+Node 4 to Node 11 with flow 5.98228
+Node 11 to Node 12 with flow 5.98228
+Node 12 to Node 3 with flow 5.98228
+------------------------------------
+Same source and sink: 4, 4
+Source, Sink: 4, 6
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 7
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 11
+--------Maximum flow: 13.9073---------
+Flow through edges in max flow condition: 
+Node 4 to Node 11 with flow 13.9073
+------------------------------------
+Source, Sink: 4, 12
+--------Maximum flow: 13.9073---------
+Flow through edges in max flow condition: 
+Node 4 to Node 11 with flow 13.9073
+Node 11 to Node 12 with flow 13.9073
+------------------------------------
+Source, Sink: 4, 13
+--------Maximum flow: 13.0871---------
+Flow through edges in max flow condition: 
+Node 4 to Node 11 with flow 13.0871
+Node 11 to Node 13 with flow 13.0871
+------------------------------------
+Source, Sink: 4, 14
+--------Maximum flow: 13.5324---------
+Flow through edges in max flow condition: 
+Node 4 to Node 11 with flow 13.5324
+Node 11 to Node 12 with flow 13.5324
+Node 12 to Node 14 with flow 13.5324
+------------------------------------
+Source, Sink: 4, 15
+--------Maximum flow: 8.81925---------
+Flow through edges in max flow condition: 
+Node 4 to Node 11 with flow 8.81925
+Node 11 to Node 12 with flow 4.90495
+Node 11 to Node 13 with flow 3.9143
+Node 12 to Node 14 with flow 4.90495
+Node 13 to Node 15 with flow 3.9143
+Node 14 to Node 15 with flow 4.90495
+------------------------------------
+Source, Sink: 4, 16
+--------Maximum flow: 11.6208---------
+Flow through edges in max flow condition: 
+Node 4 to Node 11 with flow 11.6208
+Node 11 to Node 12 with flow 11.6208
+Node 12 to Node 16 with flow 11.6208
+------------------------------------
+Source, Sink: 4, 17
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 18
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 19
+--------Maximum flow: 8.81925---------
+Flow through edges in max flow condition: 
+Node 4 to Node 11 with flow 8.81925
+Node 11 to Node 12 with flow 4.90495
+Node 11 to Node 13 with flow 3.9143
+Node 12 to Node 14 with flow 4.90495
+Node 13 to Node 15 with flow 3.9143
+Node 14 to Node 15 with flow 4.90495
+Node 15 to Node 19 with flow 8.81925
+------------------------------------
+Source, Sink: 4, 20
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 21
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 22
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 23
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 27
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 28
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 29
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 31
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 32
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 33
+--------Maximum flow: 7.68791---------
+Flow through edges in max flow condition: 
+Node 4 to Node 11 with flow 7.68791
+Node 11 to Node 12 with flow 3.77361
+Node 11 to Node 13 with flow 3.9143
+Node 12 to Node 14 with flow 3.77361
+Node 13 to Node 15 with flow 3.9143
+Node 14 to Node 15 with flow 3.77361
+Node 15 to Node 33 with flow 7.68791
+------------------------------------
+Source, Sink: 4, 34
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 35
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 36
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 39
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 40
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 41
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 42
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 43
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 44
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 45
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 46
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 47
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 48
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 49
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 50
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 51
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 52
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 53
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 54
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 55
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 56
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 57
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 58
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 59
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 60
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 62
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 66
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 67
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 70
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 74
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 75
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 76
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 77
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 78
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 79
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 80
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 82
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 83
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 84
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 85
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 86
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 88
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 90
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 92
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 93
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 94
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 95
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 96
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 97
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 98
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 100
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 101
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 102
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 103
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 104
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 105
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 106
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 107
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 108
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 109
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 110
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 112
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 114
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 115
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 117
+--------Maximum flow: 6.95344---------
+Flow through edges in max flow condition: 
+Node 4 to Node 11 with flow 6.95344
+Node 11 to Node 12 with flow 6.95344
+Node 12 to Node 117 with flow 6.95344
+------------------------------------
+Source, Sink: 4, 118
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 1
+--------Maximum flow: 15.5614---------
+Flow through edges in max flow condition: 
+Node 2 to Node 1 with flow 9.5791
+Node 3 to Node 1 with flow 5.98228
+Node 6 to Node 7 with flow 15.5614
+Node 7 to Node 12 with flow 15.5614
+Node 12 to Node 2 with flow 9.5791
+Node 12 to Node 3 with flow 5.98228
+------------------------------------
+Source, Sink: 6, 2
+--------Maximum flow: 15.5338---------
+Flow through edges in max flow condition: 
+Node 6 to Node 7 with flow 15.5338
+Node 7 to Node 12 with flow 15.5338
+Node 12 to Node 2 with flow 15.5338
+------------------------------------
+Source, Sink: 6, 3
+--------Maximum flow: 5.98228---------
+Flow through edges in max flow condition: 
+Node 6 to Node 7 with flow 5.98228
+Node 7 to Node 12 with flow 5.98228
+Node 12 to Node 3 with flow 5.98228
+------------------------------------
+Source, Sink: 6, 4
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Same source and sink: 6, 6
+Source, Sink: 6, 7
+--------Maximum flow: 46.9474---------
+Flow through edges in max flow condition: 
+Node 6 to Node 7 with flow 46.9474
+------------------------------------
+Source, Sink: 6, 11
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 12
+--------Maximum flow: 28.5098---------
+Flow through edges in max flow condition: 
+Node 6 to Node 7 with flow 28.5098
+Node 7 to Node 12 with flow 28.5098
+------------------------------------
+Source, Sink: 6, 13
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 14
+--------Maximum flow: 13.5324---------
+Flow through edges in max flow condition: 
+Node 6 to Node 7 with flow 13.5324
+Node 7 to Node 12 with flow 13.5324
+Node 12 to Node 14 with flow 13.5324
+------------------------------------
+Source, Sink: 6, 15
+--------Maximum flow: 4.90495---------
+Flow through edges in max flow condition: 
+Node 6 to Node 7 with flow 4.90495
+Node 7 to Node 12 with flow 4.90495
+Node 12 to Node 14 with flow 4.90495
+Node 14 to Node 15 with flow 4.90495
+------------------------------------
+Source, Sink: 6, 16
+--------Maximum flow: 11.6208---------
+Flow through edges in max flow condition: 
+Node 6 to Node 7 with flow 11.6208
+Node 7 to Node 12 with flow 11.6208
+Node 12 to Node 16 with flow 11.6208
+------------------------------------
+Source, Sink: 6, 17
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 18
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 19
+--------Maximum flow: 4.90495---------
+Flow through edges in max flow condition: 
+Node 6 to Node 7 with flow 4.90495
+Node 7 to Node 12 with flow 4.90495
+Node 12 to Node 14 with flow 4.90495
+Node 14 to Node 15 with flow 4.90495
+Node 15 to Node 19 with flow 4.90495
+------------------------------------
+Source, Sink: 6, 20
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 21
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 22
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 23
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 27
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 28
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 29
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 31
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 32
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 33
+--------Maximum flow: 4.90495---------
+Flow through edges in max flow condition: 
+Node 6 to Node 7 with flow 4.90495
+Node 7 to Node 12 with flow 4.90495
+Node 12 to Node 14 with flow 4.90495
+Node 14 to Node 15 with flow 4.90495
+Node 15 to Node 33 with flow 4.90495
+------------------------------------
+Source, Sink: 6, 34
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 35
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 36
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 39
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 40
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 41
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 42
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 43
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 44
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 45
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 46
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 47
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 48
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 49
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 50
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 51
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 52
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 53
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 54
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 55
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 56
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 57
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 58
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 59
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 60
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 62
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 66
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 67
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 70
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 74
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 75
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 76
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 77
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 78
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 79
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 80
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 82
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 83
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 84
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 85
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 86
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 88
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 90
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 92
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 93
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 94
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 95
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 96
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 97
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 98
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 100
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 101
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 102
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 103
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 104
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 105
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 106
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 107
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 108
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 109
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 110
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 112
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 114
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 115
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 117
+--------Maximum flow: 6.95344---------
+Flow through edges in max flow condition: 
+Node 6 to Node 7 with flow 6.95344
+Node 7 to Node 12 with flow 6.95344
+Node 12 to Node 117 with flow 6.95344
+------------------------------------
+Source, Sink: 6, 118
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 1
+--------Maximum flow: 24.5984---------
+Flow through edges in max flow condition: 
+Node 2 to Node 1 with flow 9.5791
+Node 3 to Node 1 with flow 15.0193
+Node 4 to Node 11 with flow 1.50796
+Node 5 to Node 3 with flow 9.03699
+Node 5 to Node 4 with flow 1.50796
+Node 5 to Node 11 with flow 14.0534
+Node 8 to Node 5 with flow 24.5984
+Node 11 to Node 12 with flow 15.5614
+Node 12 to Node 2 with flow 9.5791
+Node 12 to Node 3 with flow 5.98228
+------------------------------------
+Source, Sink: 8, 2
+--------Maximum flow: 15.5338---------
+Flow through edges in max flow condition: 
+Node 4 to Node 11 with flow 1.48036
+Node 5 to Node 4 with flow 1.48036
+Node 5 to Node 11 with flow 14.0534
+Node 8 to Node 5 with flow 15.5338
+Node 11 to Node 12 with flow 15.5338
+Node 12 to Node 2 with flow 15.5338
+------------------------------------
+Source, Sink: 8, 3
+--------Maximum flow: 15.0193---------
+Flow through edges in max flow condition: 
+Node 5 to Node 3 with flow 9.03699
+Node 5 to Node 11 with flow 5.98228
+Node 8 to Node 5 with flow 15.0193
+Node 11 to Node 12 with flow 5.98228
+Node 12 to Node 3 with flow 5.98228
+------------------------------------
+Source, Sink: 8, 4
+--------Maximum flow: 32.6825---------
+Flow through edges in max flow condition: 
+Node 5 to Node 4 with flow 32.6825
+Node 8 to Node 5 with flow 32.6825
+------------------------------------
+Source, Sink: 8, 6
+--------Maximum flow: 18.0846---------
+Flow through edges in max flow condition: 
+Node 5 to Node 6 with flow 18.0846
+Node 8 to Node 5 with flow 18.0846
+------------------------------------
+Source, Sink: 8, 7
+--------Maximum flow: 18.0846---------
+Flow through edges in max flow condition: 
+Node 5 to Node 6 with flow 18.0846
+Node 6 to Node 7 with flow 18.0846
+Node 8 to Node 5 with flow 18.0846
+------------------------------------
+Source, Sink: 8, 11
+--------Maximum flow: 27.9608---------
+Flow through edges in max flow condition: 
+Node 4 to Node 11 with flow 13.9073
+Node 5 to Node 4 with flow 13.9073
+Node 5 to Node 11 with flow 14.0534
+Node 8 to Node 5 with flow 27.9608
+------------------------------------
+Source, Sink: 8, 12
+--------Maximum flow: 32.6825---------
+Flow through edges in max flow condition: 
+Node 4 to Node 11 with flow 13.9073
+Node 5 to Node 4 with flow 13.9073
+Node 5 to Node 6 with flow 4.72171
+Node 5 to Node 11 with flow 14.0534
+Node 6 to Node 7 with flow 4.72171
+Node 7 to Node 12 with flow 4.72171
+Node 8 to Node 5 with flow 32.6825
+Node 11 to Node 12 with flow 27.9608
+------------------------------------
+Source, Sink: 8, 13
+--------Maximum flow: 13.0871---------
+Flow through edges in max flow condition: 
+Node 5 to Node 11 with flow 13.0871
+Node 8 to Node 5 with flow 13.0871
+Node 11 to Node 13 with flow 13.0871
+------------------------------------
+Source, Sink: 8, 14
+--------Maximum flow: 13.5324---------
+Flow through edges in max flow condition: 
+Node 5 to Node 11 with flow 13.5324
+Node 8 to Node 5 with flow 13.5324
+Node 11 to Node 12 with flow 13.5324
+Node 12 to Node 14 with flow 13.5324
+------------------------------------
+Source, Sink: 8, 15
+--------Maximum flow: 28.5884---------
+Flow through edges in max flow condition: 
+Node 5 to Node 11 with flow 8.81925
+Node 8 to Node 5 with flow 8.81925
+Node 8 to Node 30 with flow 19.7691
+Node 11 to Node 12 with flow 4.90495
+Node 11 to Node 13 with flow 3.9143
+Node 12 to Node 14 with flow 4.90495
+Node 13 to Node 15 with flow 3.9143
+Node 14 to Node 15 with flow 4.90495
+Node 17 to Node 15 with flow 19.7691
+Node 30 to Node 17 with flow 19.7691
+------------------------------------
+Source, Sink: 8, 16
+--------Maximum flow: 17.0049---------
+Flow through edges in max flow condition: 
+Node 5 to Node 11 with flow 11.6208
+Node 8 to Node 5 with flow 11.6208
+Node 8 to Node 30 with flow 5.38404
+Node 11 to Node 12 with flow 11.6208
+Node 12 to Node 16 with flow 11.6208
+Node 17 to Node 16 with flow 5.38404
+Node 30 to Node 17 with flow 5.38404
+------------------------------------
+Source, Sink: 8, 17
+--------Maximum flow: 19.7691---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 19.7691
+Node 30 to Node 17 with flow 19.7691
+------------------------------------
+Source, Sink: 8, 18
+--------Maximum flow: 19.2395---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 19.2395
+Node 17 to Node 18 with flow 19.2395
+Node 30 to Node 17 with flow 19.2395
+------------------------------------
+Source, Sink: 8, 19
+--------Maximum flow: 28.5884---------
+Flow through edges in max flow condition: 
+Node 5 to Node 11 with flow 8.81925
+Node 8 to Node 5 with flow 8.81925
+Node 8 to Node 30 with flow 19.7691
+Node 11 to Node 12 with flow 4.90495
+Node 11 to Node 13 with flow 3.9143
+Node 12 to Node 14 with flow 4.90495
+Node 13 to Node 15 with flow 3.9143
+Node 14 to Node 15 with flow 4.90495
+Node 15 to Node 19 with flow 24.2796
+Node 17 to Node 15 with flow 15.4603
+Node 17 to Node 18 with flow 4.3088
+Node 18 to Node 19 with flow 4.3088
+Node 30 to Node 17 with flow 19.7691
+------------------------------------
+Source, Sink: 8, 20
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 21
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 22
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 23
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 27
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 28
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 29
+--------Maximum flow: 6.1226---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 6.1226
+Node 17 to Node 31 with flow 6.1226
+Node 30 to Node 17 with flow 6.1226
+Node 31 to Node 29 with flow 6.1226
+------------------------------------
+Source, Sink: 8, 31
+--------Maximum flow: 6.1226---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 6.1226
+Node 17 to Node 31 with flow 6.1226
+Node 30 to Node 17 with flow 6.1226
+------------------------------------
+Source, Sink: 8, 32
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 33
+--------Maximum flow: 14.4474---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 14.4474
+Node 15 to Node 33 with flow 7.68791
+Node 17 to Node 15 with flow 7.68791
+Node 30 to Node 17 with flow 7.68791
+Node 30 to Node 38 with flow 6.7595
+Node 37 to Node 33 with flow 6.7595
+Node 38 to Node 37 with flow 6.7595
+------------------------------------
+Source, Sink: 8, 34
+--------Maximum flow: 18.4505---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 18.4505
+Node 30 to Node 38 with flow 18.4505
+Node 37 to Node 34 with flow 18.4505
+Node 38 to Node 37 with flow 18.4505
+------------------------------------
+Source, Sink: 8, 35
+--------Maximum flow: 18.4505---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 18.4505
+Node 30 to Node 38 with flow 18.4505
+Node 37 to Node 35 with flow 18.4505
+Node 38 to Node 37 with flow 18.4505
+------------------------------------
+Source, Sink: 8, 36
+--------Maximum flow: 18.4505---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 18.4505
+Node 30 to Node 38 with flow 18.4505
+Node 34 to Node 36 with flow 18.4505
+Node 37 to Node 34 with flow 18.4505
+Node 38 to Node 37 with flow 18.4505
+------------------------------------
+Source, Sink: 8, 39
+--------Maximum flow: 9.02903---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 9.02903
+Node 30 to Node 38 with flow 9.02903
+Node 37 to Node 39 with flow 9.02903
+Node 38 to Node 37 with flow 9.02903
+------------------------------------
+Source, Sink: 8, 40
+--------Maximum flow: 14.642---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 14.642
+Node 30 to Node 38 with flow 14.642
+Node 37 to Node 39 with flow 9.02903
+Node 37 to Node 40 with flow 5.61298
+Node 38 to Node 37 with flow 14.642
+Node 39 to Node 40 with flow 9.02903
+------------------------------------
+Source, Sink: 8, 41
+--------Maximum flow: 14.642---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 14.642
+Node 30 to Node 38 with flow 14.642
+Node 37 to Node 39 with flow 9.02903
+Node 37 to Node 40 with flow 5.61298
+Node 38 to Node 37 with flow 14.642
+Node 39 to Node 40 with flow 9.02903
+Node 40 to Node 41 with flow 14.642
+------------------------------------
+Source, Sink: 8, 42
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 43
+--------Maximum flow: 5.77704---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 5.77704
+Node 30 to Node 38 with flow 5.77704
+Node 34 to Node 43 with flow 5.77704
+Node 37 to Node 34 with flow 5.77704
+Node 38 to Node 37 with flow 5.77704
+------------------------------------
+Source, Sink: 8, 44
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 45
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 46
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 47
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 48
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 49
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 50
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 51
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 52
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 53
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 54
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 55
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 56
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 57
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 58
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 59
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 60
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 62
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 66
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 67
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 70
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 74
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 75
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 76
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 77
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 78
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 79
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 80
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 82
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 83
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 84
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 85
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 86
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 88
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 90
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 92
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 93
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 94
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 95
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 96
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 97
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 98
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 100
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 101
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 102
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 103
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 104
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 105
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 106
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 107
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 108
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 109
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 110
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 112
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 114
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 115
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 117
+--------Maximum flow: 6.95344---------
+Flow through edges in max flow condition: 
+Node 5 to Node 11 with flow 6.95344
+Node 8 to Node 5 with flow 6.95344
+Node 11 to Node 12 with flow 6.95344
+Node 12 to Node 117 with flow 6.95344
+------------------------------------
+Source, Sink: 8, 118
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 1
+--------Maximum flow: 24.5984---------
+Flow through edges in max flow condition: 
+Node 2 to Node 1 with flow 9.5791
+Node 3 to Node 1 with flow 15.0193
+Node 4 to Node 11 with flow 1.50796
+Node 5 to Node 3 with flow 9.03699
+Node 5 to Node 4 with flow 1.50796
+Node 5 to Node 11 with flow 14.0534
+Node 8 to Node 5 with flow 24.5984
+Node 9 to Node 8 with flow 24.5984
+Node 10 to Node 9 with flow 24.5984
+Node 11 to Node 12 with flow 15.5614
+Node 12 to Node 2 with flow 9.5791
+Node 12 to Node 3 with flow 5.98228
+------------------------------------
+Source, Sink: 10, 2
+--------Maximum flow: 15.5338---------
+Flow through edges in max flow condition: 
+Node 4 to Node 11 with flow 1.48036
+Node 5 to Node 4 with flow 1.48036
+Node 5 to Node 11 with flow 14.0534
+Node 8 to Node 5 with flow 15.5338
+Node 9 to Node 8 with flow 15.5338
+Node 10 to Node 9 with flow 15.5338
+Node 11 to Node 12 with flow 15.5338
+Node 12 to Node 2 with flow 15.5338
+------------------------------------
+Source, Sink: 10, 3
+--------Maximum flow: 15.0193---------
+Flow through edges in max flow condition: 
+Node 5 to Node 3 with flow 9.03699
+Node 5 to Node 11 with flow 5.98228
+Node 8 to Node 5 with flow 15.0193
+Node 9 to Node 8 with flow 15.0193
+Node 10 to Node 9 with flow 15.0193
+Node 11 to Node 12 with flow 5.98228
+Node 12 to Node 3 with flow 5.98228
+------------------------------------
+Source, Sink: 10, 4
+--------Maximum flow: 30.9567---------
+Flow through edges in max flow condition: 
+Node 5 to Node 4 with flow 30.9567
+Node 8 to Node 5 with flow 30.9567
+Node 9 to Node 8 with flow 30.9567
+Node 10 to Node 9 with flow 30.9567
+------------------------------------
+Source, Sink: 10, 6
+--------Maximum flow: 18.0846---------
+Flow through edges in max flow condition: 
+Node 5 to Node 6 with flow 18.0846
+Node 8 to Node 5 with flow 18.0846
+Node 9 to Node 8 with flow 18.0846
+Node 10 to Node 9 with flow 18.0846
+------------------------------------
+Source, Sink: 10, 7
+--------Maximum flow: 18.0846---------
+Flow through edges in max flow condition: 
+Node 5 to Node 6 with flow 18.0846
+Node 6 to Node 7 with flow 18.0846
+Node 8 to Node 5 with flow 18.0846
+Node 9 to Node 8 with flow 18.0846
+Node 10 to Node 9 with flow 18.0846
+------------------------------------
+Source, Sink: 10, 11
+--------Maximum flow: 27.9608---------
+Flow through edges in max flow condition: 
+Node 4 to Node 11 with flow 13.9073
+Node 5 to Node 4 with flow 13.9073
+Node 5 to Node 11 with flow 14.0534
+Node 8 to Node 5 with flow 27.9608
+Node 9 to Node 8 with flow 27.9608
+Node 10 to Node 9 with flow 27.9608
+------------------------------------
+Source, Sink: 10, 12
+--------Maximum flow: 30.9567---------
+Flow through edges in max flow condition: 
+Node 4 to Node 11 with flow 13.9073
+Node 5 to Node 4 with flow 13.9073
+Node 5 to Node 6 with flow 2.99593
+Node 5 to Node 11 with flow 14.0534
+Node 6 to Node 7 with flow 2.99593
+Node 7 to Node 12 with flow 2.99593
+Node 8 to Node 5 with flow 30.9567
+Node 9 to Node 8 with flow 30.9567
+Node 10 to Node 9 with flow 30.9567
+Node 11 to Node 12 with flow 27.9608
+------------------------------------
+Source, Sink: 10, 13
+--------Maximum flow: 13.0871---------
+Flow through edges in max flow condition: 
+Node 5 to Node 11 with flow 13.0871
+Node 8 to Node 5 with flow 13.0871
+Node 9 to Node 8 with flow 13.0871
+Node 10 to Node 9 with flow 13.0871
+Node 11 to Node 13 with flow 13.0871
+------------------------------------
+Source, Sink: 10, 14
+--------Maximum flow: 13.5324---------
+Flow through edges in max flow condition: 
+Node 5 to Node 11 with flow 13.5324
+Node 8 to Node 5 with flow 13.5324
+Node 9 to Node 8 with flow 13.5324
+Node 10 to Node 9 with flow 13.5324
+Node 11 to Node 12 with flow 13.5324
+Node 12 to Node 14 with flow 13.5324
+------------------------------------
+Source, Sink: 10, 15
+--------Maximum flow: 28.5884---------
+Flow through edges in max flow condition: 
+Node 5 to Node 11 with flow 8.81925
+Node 8 to Node 5 with flow 8.81925
+Node 8 to Node 30 with flow 19.7691
+Node 9 to Node 8 with flow 28.5884
+Node 10 to Node 9 with flow 28.5884
+Node 11 to Node 12 with flow 4.90495
+Node 11 to Node 13 with flow 3.9143
+Node 12 to Node 14 with flow 4.90495
+Node 13 to Node 15 with flow 3.9143
+Node 14 to Node 15 with flow 4.90495
+Node 17 to Node 15 with flow 19.7691
+Node 30 to Node 17 with flow 19.7691
+------------------------------------
+Source, Sink: 10, 16
+--------Maximum flow: 17.0049---------
+Flow through edges in max flow condition: 
+Node 5 to Node 11 with flow 11.6208
+Node 8 to Node 5 with flow 11.6208
+Node 8 to Node 30 with flow 5.38404
+Node 9 to Node 8 with flow 17.0049
+Node 10 to Node 9 with flow 17.0049
+Node 11 to Node 12 with flow 11.6208
+Node 12 to Node 16 with flow 11.6208
+Node 17 to Node 16 with flow 5.38404
+Node 30 to Node 17 with flow 5.38404
+------------------------------------
+Source, Sink: 10, 17
+--------Maximum flow: 19.7691---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 19.7691
+Node 9 to Node 8 with flow 19.7691
+Node 10 to Node 9 with flow 19.7691
+Node 30 to Node 17 with flow 19.7691
+------------------------------------
+Source, Sink: 10, 18
+--------Maximum flow: 19.2395---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 19.2395
+Node 9 to Node 8 with flow 19.2395
+Node 10 to Node 9 with flow 19.2395
+Node 17 to Node 18 with flow 19.2395
+Node 30 to Node 17 with flow 19.2395
+------------------------------------
+Source, Sink: 10, 19
+--------Maximum flow: 28.5884---------
+Flow through edges in max flow condition: 
+Node 5 to Node 11 with flow 8.81925
+Node 8 to Node 5 with flow 8.81925
+Node 8 to Node 30 with flow 19.7691
+Node 9 to Node 8 with flow 28.5884
+Node 10 to Node 9 with flow 28.5884
+Node 11 to Node 12 with flow 4.90495
+Node 11 to Node 13 with flow 3.9143
+Node 12 to Node 14 with flow 4.90495
+Node 13 to Node 15 with flow 3.9143
+Node 14 to Node 15 with flow 4.90495
+Node 15 to Node 19 with flow 24.2796
+Node 17 to Node 15 with flow 15.4603
+Node 17 to Node 18 with flow 4.3088
+Node 18 to Node 19 with flow 4.3088
+Node 30 to Node 17 with flow 19.7691
+------------------------------------
+Source, Sink: 10, 20
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 21
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 22
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 23
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 27
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 28
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 29
+--------Maximum flow: 6.1226---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 6.1226
+Node 9 to Node 8 with flow 6.1226
+Node 10 to Node 9 with flow 6.1226
+Node 17 to Node 31 with flow 6.1226
+Node 30 to Node 17 with flow 6.1226
+Node 31 to Node 29 with flow 6.1226
+------------------------------------
+Source, Sink: 10, 31
+--------Maximum flow: 6.1226---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 6.1226
+Node 9 to Node 8 with flow 6.1226
+Node 10 to Node 9 with flow 6.1226
+Node 17 to Node 31 with flow 6.1226
+Node 30 to Node 17 with flow 6.1226
+------------------------------------
+Source, Sink: 10, 32
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 33
+--------Maximum flow: 14.4474---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 14.4474
+Node 9 to Node 8 with flow 14.4474
+Node 10 to Node 9 with flow 14.4474
+Node 15 to Node 33 with flow 7.68791
+Node 17 to Node 15 with flow 7.68791
+Node 30 to Node 17 with flow 7.68791
+Node 30 to Node 38 with flow 6.7595
+Node 37 to Node 33 with flow 6.7595
+Node 38 to Node 37 with flow 6.7595
+------------------------------------
+Source, Sink: 10, 34
+--------Maximum flow: 18.4505---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 18.4505
+Node 9 to Node 8 with flow 18.4505
+Node 10 to Node 9 with flow 18.4505
+Node 30 to Node 38 with flow 18.4505
+Node 37 to Node 34 with flow 18.4505
+Node 38 to Node 37 with flow 18.4505
+------------------------------------
+Source, Sink: 10, 35
+--------Maximum flow: 18.4505---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 18.4505
+Node 9 to Node 8 with flow 18.4505
+Node 10 to Node 9 with flow 18.4505
+Node 30 to Node 38 with flow 18.4505
+Node 37 to Node 35 with flow 18.4505
+Node 38 to Node 37 with flow 18.4505
+------------------------------------
+Source, Sink: 10, 36
+--------Maximum flow: 18.4505---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 18.4505
+Node 9 to Node 8 with flow 18.4505
+Node 10 to Node 9 with flow 18.4505
+Node 30 to Node 38 with flow 18.4505
+Node 34 to Node 36 with flow 18.4505
+Node 37 to Node 34 with flow 18.4505
+Node 38 to Node 37 with flow 18.4505
+------------------------------------
+Source, Sink: 10, 39
+--------Maximum flow: 9.02903---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 9.02903
+Node 9 to Node 8 with flow 9.02903
+Node 10 to Node 9 with flow 9.02903
+Node 30 to Node 38 with flow 9.02903
+Node 37 to Node 39 with flow 9.02903
+Node 38 to Node 37 with flow 9.02903
+------------------------------------
+Source, Sink: 10, 40
+--------Maximum flow: 14.642---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 14.642
+Node 9 to Node 8 with flow 14.642
+Node 10 to Node 9 with flow 14.642
+Node 30 to Node 38 with flow 14.642
+Node 37 to Node 39 with flow 9.02903
+Node 37 to Node 40 with flow 5.61298
+Node 38 to Node 37 with flow 14.642
+Node 39 to Node 40 with flow 9.02903
+------------------------------------
+Source, Sink: 10, 41
+--------Maximum flow: 14.642---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 14.642
+Node 9 to Node 8 with flow 14.642
+Node 10 to Node 9 with flow 14.642
+Node 30 to Node 38 with flow 14.642
+Node 37 to Node 39 with flow 9.02903
+Node 37 to Node 40 with flow 5.61298
+Node 38 to Node 37 with flow 14.642
+Node 39 to Node 40 with flow 9.02903
+Node 40 to Node 41 with flow 14.642
+------------------------------------
+Source, Sink: 10, 42
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 43
+--------Maximum flow: 5.77704---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 5.77704
+Node 9 to Node 8 with flow 5.77704
+Node 10 to Node 9 with flow 5.77704
+Node 30 to Node 38 with flow 5.77704
+Node 34 to Node 43 with flow 5.77704
+Node 37 to Node 34 with flow 5.77704
+Node 38 to Node 37 with flow 5.77704
+------------------------------------
+Source, Sink: 10, 44
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 45
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 46
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 47
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 48
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 49
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 50
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 51
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 52
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 53
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 54
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 55
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 56
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 57
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 58
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 59
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 60
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 62
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 66
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 67
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 70
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 74
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 75
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 76
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 77
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 78
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 79
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 80
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 82
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 83
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 84
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 85
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 86
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 88
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 90
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 92
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 93
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 94
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 95
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 96
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 97
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 98
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 100
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 101
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 102
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 103
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 104
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 105
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 106
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 107
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 108
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 109
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 110
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 112
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 114
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 115
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 117
+--------Maximum flow: 6.95344---------
+Flow through edges in max flow condition: 
+Node 5 to Node 11 with flow 6.95344
+Node 8 to Node 5 with flow 6.95344
+Node 9 to Node 8 with flow 6.95344
+Node 10 to Node 9 with flow 6.95344
+Node 11 to Node 12 with flow 6.95344
+Node 12 to Node 117 with flow 6.95344
+------------------------------------
+Source, Sink: 10, 118
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 1
+--------Maximum flow: 15.5614---------
+Flow through edges in max flow condition: 
+Node 2 to Node 1 with flow 9.5791
+Node 3 to Node 1 with flow 5.98228
+Node 12 to Node 2 with flow 9.5791
+Node 12 to Node 3 with flow 5.98228
+------------------------------------
+Source, Sink: 12, 2
+--------Maximum flow: 15.5338---------
+Flow through edges in max flow condition: 
+Node 12 to Node 2 with flow 15.5338
+------------------------------------
+Source, Sink: 12, 3
+--------Maximum flow: 5.98228---------
+Flow through edges in max flow condition: 
+Node 12 to Node 3 with flow 5.98228
+------------------------------------
+Source, Sink: 12, 4
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 6
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 7
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 11
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Same source and sink: 12, 12
+Source, Sink: 12, 13
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 14
+--------Maximum flow: 13.5324---------
+Flow through edges in max flow condition: 
+Node 12 to Node 14 with flow 13.5324
+------------------------------------
+Source, Sink: 12, 15
+--------Maximum flow: 4.90495---------
+Flow through edges in max flow condition: 
+Node 12 to Node 14 with flow 4.90495
+Node 14 to Node 15 with flow 4.90495
+------------------------------------
+Source, Sink: 12, 16
+--------Maximum flow: 11.6208---------
+Flow through edges in max flow condition: 
+Node 12 to Node 16 with flow 11.6208
+------------------------------------
+Source, Sink: 12, 17
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 18
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 19
+--------Maximum flow: 4.90495---------
+Flow through edges in max flow condition: 
+Node 12 to Node 14 with flow 4.90495
+Node 14 to Node 15 with flow 4.90495
+Node 15 to Node 19 with flow 4.90495
+------------------------------------
+Source, Sink: 12, 20
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 21
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 22
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 23
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 27
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 28
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 29
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 31
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 32
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 33
+--------Maximum flow: 4.90495---------
+Flow through edges in max flow condition: 
+Node 12 to Node 14 with flow 4.90495
+Node 14 to Node 15 with flow 4.90495
+Node 15 to Node 33 with flow 4.90495
+------------------------------------
+Source, Sink: 12, 34
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 35
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 36
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 39
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 40
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 41
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 42
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 43
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 44
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 45
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 46
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 47
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 48
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 49
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 50
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 51
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 52
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 53
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 54
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 55
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 56
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 57
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 58
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 59
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 60
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 62
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 66
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 67
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 70
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 74
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 75
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 76
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 77
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 78
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 79
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 80
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 82
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 83
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 84
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 85
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 86
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 88
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 90
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 92
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 93
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 94
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 95
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 96
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 97
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 98
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 100
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 101
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 102
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 103
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 104
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 105
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 106
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 107
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 108
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 109
+Starting....
+Line: 2, 1, 9.5791
+Line: 3, 1, 22.5637
+Line: 12, 2, 15.5338
+Line: 5, 3, 9.03699
+Line: 12, 3, 5.98228
+Line: 5, 4, 122.372
+Line: 4, 11, 13.9073
+Line: 5, 6, 18.0846
+Line: 5, 11, 14.0534
+Line: 6, 7, 46.9474
+Line: 7, 12, 28.5098
+Line: 8, 5, 32.6825
+Line: 9, 8, 37.4532
+Line: 8, 30, 19.7691
+Line: 10, 9, 30.9567
+Line: 11, 12, 48.8204
+Line: 11, 13, 13.0871
+Line: 12, 14, 13.5324
+Line: 12, 16, 11.6208
+Line: 12, 117, 6.95344
+Line: 13, 15, 3.9143
+Line: 14, 15, 4.90495
+Line: 17, 15, 21.9058
+Line: 15, 19, 24.2796
+Line: 15, 33, 7.68791
+Line: 17, 16, 5.38404
+Line: 17, 18, 19.2395
+Line: 17, 31, 6.1226
+Line: 17, 113, 31.7923
+Line: 18, 19, 19.7808
+Line: 20, 19, 8.3554
+Line: 34, 19, 3.87306
+Line: 21, 20, 11.5141
+Line: 22, 21, 10.078
+Line: 23, 22, 6.14868
+Line: 23, 24, 19.6007
+Line: 25, 23, 12.2689
+Line: 23, 32, 8.36272
+Line: 70, 24, 2.4301
+Line: 24, 72, 4.95089
+Line: 25, 27, 6.02145
+Line: 26, 25, 26.178
+Line: 26, 30, 11.578
+Line: 27, 28, 11.4137
+Line: 27, 32, 12.6748
+Line: 27, 115, 13.1764
+Line: 28, 29, 10.2846
+Line: 31, 29, 28.7213
+Line: 30, 17, 25.7732
+Line: 30, 38, 18.4505
+Line: 32, 31, 9.71731
+Line: 32, 113, 4.7145
+Line: 32, 114, 15.9563
+Line: 37, 33, 6.7595
+Line: 34, 36, 35.4863
+Line: 37, 34, 102.645
+Line: 34, 43, 5.77704
+Line: 35, 36, 95.7573
+Line: 37, 35, 19.6453
+Line: 37, 39, 9.02903
+Line: 37, 40, 5.61298
+Line: 38, 37, 26.6667
+Line: 65, 38, 10.0999
+Line: 39, 40, 15.8137
+Line: 40, 41, 19.6801
+Line: 42, 40, 5.22928
+Line: 42, 41, 7.08774
+Line: 49, 42, 3.0228
+Line: 49, 42, 3.0228
+Line: 44, 43, 3.95539
+Line: 45, 44, 10.7709
+Line: 46, 45, 7.0733
+Line: 49, 45, 5.04597
+Line: 47, 46, 7.54357
+Line: 48, 46, 5.04222
+Line: 49, 47, 15.3014
+Line: 69, 47, 3.44426
+Line: 49, 48, 18.6642
+Line: 49, 50, 12.5314
+Line: 49, 51, 6.87924
+Line: 49, 54, 3.35484
+Line: 49, 54, 3.29274
+Line: 66, 49, 10.6785
+Line: 66, 49, 10.6785
+Line: 69, 49, 2.95297
+Line: 50, 57, 7.03549
+Line: 51, 52, 16.0757
+Line: 51, 58, 13.1082
+Line: 52, 53, 5.93678
+Line: 54, 53, 8.01265
+Line: 54, 55, 13.7567
+Line: 54, 56, 100.623
+Line: 59, 54, 4.25981
+Line: 56, 55, 63.016
+Line: 59, 55, 4.52607
+Line: 57, 56, 9.75526
+Line: 58, 56, 9.75526
+Line: 59, 56, 3.78486
+Line: 59, 56, 3.96622
+Line: 60, 59, 6.73742
+Line: 61, 59, 6.51278
+Line: 61, 60, 72.6971
+Line: 62, 60, 17.4117
+Line: 61, 62, 25.9792
+Line: 66, 62, 4.47898
+Line: 67, 62, 8.34649
+Line: 63, 59, 25.9067
+Line: 64, 63, 49.8161
+Line: 64, 61, 37.3134
+Line: 65, 64, 32.982
+Line: 65, 66, 27.027
+Line: 65, 68, 62.2688
+Line: 66, 67, 9.62072
+Line: 69, 68, 27.027
+Line: 81, 68, 49.3202
+Line: 68, 116, 246.048
+Line: 69, 70, 7.66312
+Line: 69, 75, 7.77927
+Line: 69, 77, 9.46781
+Line: 70, 71, 27.3379
+Line: 70, 74, 7.23361
+Line: 75, 70, 6.78643
+Line: 71, 72, 5.39249
+Line: 71, 73, 21.6363
+Line: 75, 74, 23.5725
+Line: 77, 75, 4.79067
+Line: 75, 118, 19.9052
+Line: 77, 76, 6.4718
+Line: 118, 76, 17.6
+Line: 77, 78, 77.1752
+Line: 80, 77, 19.4579
+Line: 80, 77, 9.17109
+Line: 82, 77, 11.0674
+Line: 79, 78, 39.9945
+Line: 80, 79, 13.8681
+Line: 80, 96, 5.39232
+Line: 80, 97, 10.5069
+Line: 80, 98, 9.0423
+Line: 80, 99, 4.74061
+Line: 80, 81, 27.027
+Line: 83, 82, 26.0939
+Line: 96, 82, 18.0438
+Line: 84, 83, 6.84703
+Line: 85, 83, 6.48845
+Line: 85, 84, 14.1127
+Line: 85, 86, 7.81966
+Line: 88, 85, 9.62072
+Line: 89, 85, 5.72596
+Line: 87, 86, 4.77739
+Line: 89, 88, 13.7847
+Line: 89, 90, 5.12805
+Line: 89, 90, 9.75597
+Line: 89, 92, 19.4321
+Line: 89, 92, 6.13831
+Line: 90, 91, 11.4451
+Line: 92, 91, 7.52124
+Line: 92, 93, 11.2819
+Line: 92, 94, 6.05476
+Line: 92, 100, 3.31089
+Line: 92, 102, 17.4711
+Line: 93, 94, 13.0682
+Line: 94, 95, 22.0444
+Line: 94, 96, 10.9928
+Line: 94, 100, 16.4826
+Line: 96, 95, 17.4488
+Line: 97, 96, 11.0895
+Line: 100, 98, 5.45406
+Line: 100, 99, 12.0093
+Line: 101, 100, 7.73969
+Line: 100, 103, 18.2203
+Line: 100, 104, 4.78639
+Line: 100, 106, 4.22196
+Line: 102, 101, 8.72069
+Line: 103, 104, 6.05648
+Line: 103, 105, 5.84521
+Line: 103, 110, 5.392
+Line: 104, 105, 25.5852
+Line: 105, 106, 17.7107
+Line: 105, 107, 5.24878
+Line: 105, 108, 13.3353
+Line: 106, 107, 5.24878
+Line: 108, 109, 32.6218
+Line: 109, 110, 12.3285
+Line: 111, 110, 12.7162
+Line: 110, 112, 14.5771
+Line: 114, 115, 93.8853
+Gen: 4
+Gen: 6
+Gen: 8
+Gen: 10
+Gen: 12
+Gen: 15
+Gen: 18
+Gen: 19
+Gen: 24
+Gen: 25
+Gen: 26
+Gen: 27
+Gen: 31
+Gen: 32
+Gen: 34
+Gen: 36
+Gen: 40
+Gen: 42
+Gen: 46
+Gen: 49
+Gen: 54
+Gen: 55
+Gen: 56
+Gen: 59
+Gen: 61
+Gen: 62
+Gen: 65
+Gen: 66
+Gen: 69
+Gen: 70
+Gen: 72
+Gen: 73
+Gen: 74
+Gen: 76
+Gen: 77
+Gen: 80
+Gen: 82
+Gen: 85
+Gen: 87
+Gen: 89
+Gen: 90
+Gen: 91
+Gen: 92
+Gen: 99
+Gen: 100
+Gen: 103
+Gen: 104
+Gen: 105
+Gen: 107
+Gen: 110
+Gen: 111
+Gen: 112
+Gen: 113
+Gen: 116
+Load: 1,54.14,8.66
+Load: 2,21.23,9.55
+Load: 3,41.4,10.62
+Load: 4,31.85,12.74
+Load: 6,55.2,23.35
+Load: 7,20.17,2.12
+Load: 11,74.31,24.42
+Load: 12,49.89,10.62
+Load: 13,36.09,16.99
+Load: 14,14.86,1.06
+Load: 15,95.54,31.85
+Load: 16,26.54,10.62
+Load: 17,11.68,3.18
+Load: 18,63.69,36.09
+Load: 19,47.77,26.54
+Load: 20,19.11,3.18
+Load: 21,14.86,8.49
+Load: 22,10.62,5.31
+Load: 23,7.43,3.18
+Load: 27,65.82,13.8
+Load: 28,18.05,7.43
+Load: 29,25.48,4.25
+Load: 31,45.65,28.66
+Load: 32,62.63,24.42
+Load: 33,24.42,9.55
+Load: 34,62.63,27.6
+Load: 35,35.03,9.55
+Load: 36,32.91,18.05
+Load: 39,27,11
+Load: 40,20,23
+Load: 41,37,10
+Load: 42,37,23
+Load: 43,18,7
+Load: 44,16,8
+Load: 45,53,22
+Load: 46,28,10
+Load: 47,34,0
+Load: 48,20,11
+Load: 49,87,30
+Load: 50,17,4
+Load: 51,17,8
+Load: 52,18,5
+Load: 53,23,11
+Load: 54,113,32
+Load: 55,63,22
+Load: 56,84,18
+Load: 57,12,3
+Load: 58,12,3
+Load: 59,277,113
+Load: 60,78,3
+Load: 62,77,14
+Load: 66,39,18
+Load: 67,28,7
+Load: 70,66,20
+Load: 74,68,27
+Load: 75,47,11
+Load: 76,68,36
+Load: 77,61,28
+Load: 78,71,26
+Load: 79,39,32
+Load: 80,130,26
+Load: 82,54,27
+Load: 83,20,10
+Load: 84,11,7
+Load: 85,24,15
+Load: 86,21,10
+Load: 88,48,10
+Load: 90,78,42
+Load: 92,65,10
+Load: 93,12,7
+Load: 94,30,16
+Load: 95,42,31
+Load: 96,38,15
+Load: 97,15,9
+Load: 98,34,8
+Load: 100,37,18
+Load: 101,22,15
+Load: 102,5,3
+Load: 103,23,16
+Load: 104,38,25
+Load: 105,31,26
+Load: 106,43,16
+Load: 107,28,12
+Load: 108,2,1
+Load: 109,8,3
+Load: 110,39,30
+Load: 112,25,13
+Load: 114,8.49,3.18
+Load: 115,23.35,7.43
+Load: 117,21.23,8.49
+Load: 118,33,15
+Source, Sink: 4, 1
+--------Maximum flow: 13.9073---------
+Flow through edges in max flow condition: 
+Node 2 to Node 1 with flow 9.5791
+Node 3 to Node 1 with flow 4.32825
+Node 4 to Node 11 with flow 13.9073
+Node 11 to Node 12 with flow 13.9073
+Node 12 to Node 2 with flow 9.5791
+Node 12 to Node 3 with flow 4.32825
+------------------------------------
+Source, Sink: 4, 2
+--------Maximum flow: 13.9073---------
+Flow through edges in max flow condition: 
+Node 4 to Node 11 with flow 13.9073
+Node 11 to Node 12 with flow 13.9073
+Node 12 to Node 2 with flow 13.9073
+------------------------------------
+Source, Sink: 4, 3
+--------Maximum flow: 5.98228---------
+Flow through edges in max flow condition: 
+Node 4 to Node 11 with flow 5.98228
+Node 11 to Node 12 with flow 5.98228
+Node 12 to Node 3 with flow 5.98228
+------------------------------------
+Same source and sink: 4, 4
+Source, Sink: 4, 6
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 7
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 11
+--------Maximum flow: 13.9073---------
+Flow through edges in max flow condition: 
+Node 4 to Node 11 with flow 13.9073
+------------------------------------
+Source, Sink: 4, 12
+--------Maximum flow: 13.9073---------
+Flow through edges in max flow condition: 
+Node 4 to Node 11 with flow 13.9073
+Node 11 to Node 12 with flow 13.9073
+------------------------------------
+Source, Sink: 4, 13
+--------Maximum flow: 13.0871---------
+Flow through edges in max flow condition: 
+Node 4 to Node 11 with flow 13.0871
+Node 11 to Node 13 with flow 13.0871
+------------------------------------
+Source, Sink: 4, 14
+--------Maximum flow: 13.5324---------
+Flow through edges in max flow condition: 
+Node 4 to Node 11 with flow 13.5324
+Node 11 to Node 12 with flow 13.5324
+Node 12 to Node 14 with flow 13.5324
+------------------------------------
+Source, Sink: 4, 15
+--------Maximum flow: 8.81925---------
+Flow through edges in max flow condition: 
+Node 4 to Node 11 with flow 8.81925
+Node 11 to Node 12 with flow 4.90495
+Node 11 to Node 13 with flow 3.9143
+Node 12 to Node 14 with flow 4.90495
+Node 13 to Node 15 with flow 3.9143
+Node 14 to Node 15 with flow 4.90495
+------------------------------------
+Source, Sink: 4, 16
+--------Maximum flow: 11.6208---------
+Flow through edges in max flow condition: 
+Node 4 to Node 11 with flow 11.6208
+Node 11 to Node 12 with flow 11.6208
+Node 12 to Node 16 with flow 11.6208
+------------------------------------
+Source, Sink: 4, 17
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 18
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 19
+--------Maximum flow: 8.81925---------
+Flow through edges in max flow condition: 
+Node 4 to Node 11 with flow 8.81925
+Node 11 to Node 12 with flow 4.90495
+Node 11 to Node 13 with flow 3.9143
+Node 12 to Node 14 with flow 4.90495
+Node 13 to Node 15 with flow 3.9143
+Node 14 to Node 15 with flow 4.90495
+Node 15 to Node 19 with flow 8.81925
+------------------------------------
+Source, Sink: 4, 20
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 21
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 22
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 23
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 27
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 28
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 29
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 31
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 32
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 33
+--------Maximum flow: 7.68791---------
+Flow through edges in max flow condition: 
+Node 4 to Node 11 with flow 7.68791
+Node 11 to Node 12 with flow 3.77361
+Node 11 to Node 13 with flow 3.9143
+Node 12 to Node 14 with flow 3.77361
+Node 13 to Node 15 with flow 3.9143
+Node 14 to Node 15 with flow 3.77361
+Node 15 to Node 33 with flow 7.68791
+------------------------------------
+Source, Sink: 4, 34
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 35
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 36
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 39
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 40
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 41
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 42
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 43
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 44
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 45
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 46
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 47
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 48
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 49
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 50
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 51
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 52
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 53
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 54
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 55
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 56
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 57
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 58
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 59
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 60
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 62
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 66
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 67
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 70
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 74
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 75
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 76
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 77
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 78
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 79
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 80
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 82
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 83
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 84
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 85
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 86
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 88
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 90
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 92
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 93
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 94
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 95
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 96
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 97
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 98
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 100
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 101
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 102
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 103
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 104
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 105
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 106
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 107
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 108
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 109
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 110
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 112
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 114
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 115
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 4, 117
+--------Maximum flow: 6.95344---------
+Flow through edges in max flow condition: 
+Node 4 to Node 11 with flow 6.95344
+Node 11 to Node 12 with flow 6.95344
+Node 12 to Node 117 with flow 6.95344
+------------------------------------
+Source, Sink: 4, 118
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 1
+--------Maximum flow: 15.5614---------
+Flow through edges in max flow condition: 
+Node 2 to Node 1 with flow 9.5791
+Node 3 to Node 1 with flow 5.98228
+Node 6 to Node 7 with flow 15.5614
+Node 7 to Node 12 with flow 15.5614
+Node 12 to Node 2 with flow 9.5791
+Node 12 to Node 3 with flow 5.98228
+------------------------------------
+Source, Sink: 6, 2
+--------Maximum flow: 15.5338---------
+Flow through edges in max flow condition: 
+Node 6 to Node 7 with flow 15.5338
+Node 7 to Node 12 with flow 15.5338
+Node 12 to Node 2 with flow 15.5338
+------------------------------------
+Source, Sink: 6, 3
+--------Maximum flow: 5.98228---------
+Flow through edges in max flow condition: 
+Node 6 to Node 7 with flow 5.98228
+Node 7 to Node 12 with flow 5.98228
+Node 12 to Node 3 with flow 5.98228
+------------------------------------
+Source, Sink: 6, 4
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Same source and sink: 6, 6
+Source, Sink: 6, 7
+--------Maximum flow: 46.9474---------
+Flow through edges in max flow condition: 
+Node 6 to Node 7 with flow 46.9474
+------------------------------------
+Source, Sink: 6, 11
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 12
+--------Maximum flow: 28.5098---------
+Flow through edges in max flow condition: 
+Node 6 to Node 7 with flow 28.5098
+Node 7 to Node 12 with flow 28.5098
+------------------------------------
+Source, Sink: 6, 13
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 14
+--------Maximum flow: 13.5324---------
+Flow through edges in max flow condition: 
+Node 6 to Node 7 with flow 13.5324
+Node 7 to Node 12 with flow 13.5324
+Node 12 to Node 14 with flow 13.5324
+------------------------------------
+Source, Sink: 6, 15
+--------Maximum flow: 4.90495---------
+Flow through edges in max flow condition: 
+Node 6 to Node 7 with flow 4.90495
+Node 7 to Node 12 with flow 4.90495
+Node 12 to Node 14 with flow 4.90495
+Node 14 to Node 15 with flow 4.90495
+------------------------------------
+Source, Sink: 6, 16
+--------Maximum flow: 11.6208---------
+Flow through edges in max flow condition: 
+Node 6 to Node 7 with flow 11.6208
+Node 7 to Node 12 with flow 11.6208
+Node 12 to Node 16 with flow 11.6208
+------------------------------------
+Source, Sink: 6, 17
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 18
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 19
+--------Maximum flow: 4.90495---------
+Flow through edges in max flow condition: 
+Node 6 to Node 7 with flow 4.90495
+Node 7 to Node 12 with flow 4.90495
+Node 12 to Node 14 with flow 4.90495
+Node 14 to Node 15 with flow 4.90495
+Node 15 to Node 19 with flow 4.90495
+------------------------------------
+Source, Sink: 6, 20
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 21
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 22
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 23
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 27
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 28
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 29
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 31
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 32
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 33
+--------Maximum flow: 4.90495---------
+Flow through edges in max flow condition: 
+Node 6 to Node 7 with flow 4.90495
+Node 7 to Node 12 with flow 4.90495
+Node 12 to Node 14 with flow 4.90495
+Node 14 to Node 15 with flow 4.90495
+Node 15 to Node 33 with flow 4.90495
+------------------------------------
+Source, Sink: 6, 34
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 35
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 36
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 39
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 40
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 41
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 42
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 43
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 44
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 45
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 46
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 47
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 48
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 49
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 50
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 51
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 52
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 53
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 54
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 55
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 56
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 57
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 58
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 59
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 60
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 62
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 66
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 67
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 70
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 74
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 75
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 76
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 77
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 78
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 79
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 80
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 82
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 83
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 84
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 85
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 86
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 88
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 90
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 92
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 93
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 94
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 95
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 96
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 97
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 98
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 100
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 101
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 102
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 103
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 104
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 105
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 106
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 107
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 108
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 109
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 110
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 112
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 114
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 115
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 6, 117
+--------Maximum flow: 6.95344---------
+Flow through edges in max flow condition: 
+Node 6 to Node 7 with flow 6.95344
+Node 7 to Node 12 with flow 6.95344
+Node 12 to Node 117 with flow 6.95344
+------------------------------------
+Source, Sink: 6, 118
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 1
+--------Maximum flow: 24.5984---------
+Flow through edges in max flow condition: 
+Node 2 to Node 1 with flow 9.5791
+Node 3 to Node 1 with flow 15.0193
+Node 4 to Node 11 with flow 1.50796
+Node 5 to Node 3 with flow 9.03699
+Node 5 to Node 4 with flow 1.50796
+Node 5 to Node 11 with flow 14.0534
+Node 8 to Node 5 with flow 24.5984
+Node 11 to Node 12 with flow 15.5614
+Node 12 to Node 2 with flow 9.5791
+Node 12 to Node 3 with flow 5.98228
+------------------------------------
+Source, Sink: 8, 2
+--------Maximum flow: 15.5338---------
+Flow through edges in max flow condition: 
+Node 4 to Node 11 with flow 1.48036
+Node 5 to Node 4 with flow 1.48036
+Node 5 to Node 11 with flow 14.0534
+Node 8 to Node 5 with flow 15.5338
+Node 11 to Node 12 with flow 15.5338
+Node 12 to Node 2 with flow 15.5338
+------------------------------------
+Source, Sink: 8, 3
+--------Maximum flow: 15.0193---------
+Flow through edges in max flow condition: 
+Node 5 to Node 3 with flow 9.03699
+Node 5 to Node 11 with flow 5.98228
+Node 8 to Node 5 with flow 15.0193
+Node 11 to Node 12 with flow 5.98228
+Node 12 to Node 3 with flow 5.98228
+------------------------------------
+Source, Sink: 8, 4
+--------Maximum flow: 32.6825---------
+Flow through edges in max flow condition: 
+Node 5 to Node 4 with flow 32.6825
+Node 8 to Node 5 with flow 32.6825
+------------------------------------
+Source, Sink: 8, 6
+--------Maximum flow: 18.0846---------
+Flow through edges in max flow condition: 
+Node 5 to Node 6 with flow 18.0846
+Node 8 to Node 5 with flow 18.0846
+------------------------------------
+Source, Sink: 8, 7
+--------Maximum flow: 18.0846---------
+Flow through edges in max flow condition: 
+Node 5 to Node 6 with flow 18.0846
+Node 6 to Node 7 with flow 18.0846
+Node 8 to Node 5 with flow 18.0846
+------------------------------------
+Source, Sink: 8, 11
+--------Maximum flow: 27.9608---------
+Flow through edges in max flow condition: 
+Node 4 to Node 11 with flow 13.9073
+Node 5 to Node 4 with flow 13.9073
+Node 5 to Node 11 with flow 14.0534
+Node 8 to Node 5 with flow 27.9608
+------------------------------------
+Source, Sink: 8, 12
+--------Maximum flow: 32.6825---------
+Flow through edges in max flow condition: 
+Node 4 to Node 11 with flow 13.9073
+Node 5 to Node 4 with flow 13.9073
+Node 5 to Node 6 with flow 4.72171
+Node 5 to Node 11 with flow 14.0534
+Node 6 to Node 7 with flow 4.72171
+Node 7 to Node 12 with flow 4.72171
+Node 8 to Node 5 with flow 32.6825
+Node 11 to Node 12 with flow 27.9608
+------------------------------------
+Source, Sink: 8, 13
+--------Maximum flow: 13.0871---------
+Flow through edges in max flow condition: 
+Node 5 to Node 11 with flow 13.0871
+Node 8 to Node 5 with flow 13.0871
+Node 11 to Node 13 with flow 13.0871
+------------------------------------
+Source, Sink: 8, 14
+--------Maximum flow: 13.5324---------
+Flow through edges in max flow condition: 
+Node 5 to Node 11 with flow 13.5324
+Node 8 to Node 5 with flow 13.5324
+Node 11 to Node 12 with flow 13.5324
+Node 12 to Node 14 with flow 13.5324
+------------------------------------
+Source, Sink: 8, 15
+--------Maximum flow: 28.5884---------
+Flow through edges in max flow condition: 
+Node 5 to Node 11 with flow 8.81925
+Node 8 to Node 5 with flow 8.81925
+Node 8 to Node 30 with flow 19.7691
+Node 11 to Node 12 with flow 4.90495
+Node 11 to Node 13 with flow 3.9143
+Node 12 to Node 14 with flow 4.90495
+Node 13 to Node 15 with flow 3.9143
+Node 14 to Node 15 with flow 4.90495
+Node 17 to Node 15 with flow 19.7691
+Node 30 to Node 17 with flow 19.7691
+------------------------------------
+Source, Sink: 8, 16
+--------Maximum flow: 17.0049---------
+Flow through edges in max flow condition: 
+Node 5 to Node 11 with flow 11.6208
+Node 8 to Node 5 with flow 11.6208
+Node 8 to Node 30 with flow 5.38404
+Node 11 to Node 12 with flow 11.6208
+Node 12 to Node 16 with flow 11.6208
+Node 17 to Node 16 with flow 5.38404
+Node 30 to Node 17 with flow 5.38404
+------------------------------------
+Source, Sink: 8, 17
+--------Maximum flow: 19.7691---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 19.7691
+Node 30 to Node 17 with flow 19.7691
+------------------------------------
+Source, Sink: 8, 18
+--------Maximum flow: 19.2395---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 19.2395
+Node 17 to Node 18 with flow 19.2395
+Node 30 to Node 17 with flow 19.2395
+------------------------------------
+Source, Sink: 8, 19
+--------Maximum flow: 28.5884---------
+Flow through edges in max flow condition: 
+Node 5 to Node 11 with flow 8.81925
+Node 8 to Node 5 with flow 8.81925
+Node 8 to Node 30 with flow 19.7691
+Node 11 to Node 12 with flow 4.90495
+Node 11 to Node 13 with flow 3.9143
+Node 12 to Node 14 with flow 4.90495
+Node 13 to Node 15 with flow 3.9143
+Node 14 to Node 15 with flow 4.90495
+Node 15 to Node 19 with flow 24.2796
+Node 17 to Node 15 with flow 15.4603
+Node 17 to Node 18 with flow 4.3088
+Node 18 to Node 19 with flow 4.3088
+Node 30 to Node 17 with flow 19.7691
+------------------------------------
+Source, Sink: 8, 20
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 21
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 22
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 23
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 27
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 28
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 29
+--------Maximum flow: 6.1226---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 6.1226
+Node 17 to Node 31 with flow 6.1226
+Node 30 to Node 17 with flow 6.1226
+Node 31 to Node 29 with flow 6.1226
+------------------------------------
+Source, Sink: 8, 31
+--------Maximum flow: 6.1226---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 6.1226
+Node 17 to Node 31 with flow 6.1226
+Node 30 to Node 17 with flow 6.1226
+------------------------------------
+Source, Sink: 8, 32
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 33
+--------Maximum flow: 14.4474---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 14.4474
+Node 15 to Node 33 with flow 7.68791
+Node 17 to Node 15 with flow 7.68791
+Node 30 to Node 17 with flow 7.68791
+Node 30 to Node 38 with flow 6.7595
+Node 37 to Node 33 with flow 6.7595
+Node 38 to Node 37 with flow 6.7595
+------------------------------------
+Source, Sink: 8, 34
+--------Maximum flow: 18.4505---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 18.4505
+Node 30 to Node 38 with flow 18.4505
+Node 37 to Node 34 with flow 18.4505
+Node 38 to Node 37 with flow 18.4505
+------------------------------------
+Source, Sink: 8, 35
+--------Maximum flow: 18.4505---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 18.4505
+Node 30 to Node 38 with flow 18.4505
+Node 37 to Node 35 with flow 18.4505
+Node 38 to Node 37 with flow 18.4505
+------------------------------------
+Source, Sink: 8, 36
+--------Maximum flow: 18.4505---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 18.4505
+Node 30 to Node 38 with flow 18.4505
+Node 34 to Node 36 with flow 18.4505
+Node 37 to Node 34 with flow 18.4505
+Node 38 to Node 37 with flow 18.4505
+------------------------------------
+Source, Sink: 8, 39
+--------Maximum flow: 9.02903---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 9.02903
+Node 30 to Node 38 with flow 9.02903
+Node 37 to Node 39 with flow 9.02903
+Node 38 to Node 37 with flow 9.02903
+------------------------------------
+Source, Sink: 8, 40
+--------Maximum flow: 14.642---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 14.642
+Node 30 to Node 38 with flow 14.642
+Node 37 to Node 39 with flow 9.02903
+Node 37 to Node 40 with flow 5.61298
+Node 38 to Node 37 with flow 14.642
+Node 39 to Node 40 with flow 9.02903
+------------------------------------
+Source, Sink: 8, 41
+--------Maximum flow: 14.642---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 14.642
+Node 30 to Node 38 with flow 14.642
+Node 37 to Node 39 with flow 9.02903
+Node 37 to Node 40 with flow 5.61298
+Node 38 to Node 37 with flow 14.642
+Node 39 to Node 40 with flow 9.02903
+Node 40 to Node 41 with flow 14.642
+------------------------------------
+Source, Sink: 8, 42
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 43
+--------Maximum flow: 5.77704---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 5.77704
+Node 30 to Node 38 with flow 5.77704
+Node 34 to Node 43 with flow 5.77704
+Node 37 to Node 34 with flow 5.77704
+Node 38 to Node 37 with flow 5.77704
+------------------------------------
+Source, Sink: 8, 44
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 45
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 46
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 47
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 48
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 49
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 50
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 51
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 52
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 53
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 54
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 55
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 56
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 57
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 58
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 59
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 60
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 62
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 66
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 67
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 70
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 74
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 75
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 76
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 77
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 78
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 79
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 80
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 82
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 83
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 84
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 85
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 86
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 88
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 90
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 92
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 93
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 94
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 95
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 96
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 97
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 98
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 100
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 101
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 102
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 103
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 104
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 105
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 106
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 107
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 108
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 109
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 110
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 112
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 114
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 115
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 8, 117
+--------Maximum flow: 6.95344---------
+Flow through edges in max flow condition: 
+Node 5 to Node 11 with flow 6.95344
+Node 8 to Node 5 with flow 6.95344
+Node 11 to Node 12 with flow 6.95344
+Node 12 to Node 117 with flow 6.95344
+------------------------------------
+Source, Sink: 8, 118
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 1
+--------Maximum flow: 24.5984---------
+Flow through edges in max flow condition: 
+Node 2 to Node 1 with flow 9.5791
+Node 3 to Node 1 with flow 15.0193
+Node 4 to Node 11 with flow 1.50796
+Node 5 to Node 3 with flow 9.03699
+Node 5 to Node 4 with flow 1.50796
+Node 5 to Node 11 with flow 14.0534
+Node 8 to Node 5 with flow 24.5984
+Node 9 to Node 8 with flow 24.5984
+Node 10 to Node 9 with flow 24.5984
+Node 11 to Node 12 with flow 15.5614
+Node 12 to Node 2 with flow 9.5791
+Node 12 to Node 3 with flow 5.98228
+------------------------------------
+Source, Sink: 10, 2
+--------Maximum flow: 15.5338---------
+Flow through edges in max flow condition: 
+Node 4 to Node 11 with flow 1.48036
+Node 5 to Node 4 with flow 1.48036
+Node 5 to Node 11 with flow 14.0534
+Node 8 to Node 5 with flow 15.5338
+Node 9 to Node 8 with flow 15.5338
+Node 10 to Node 9 with flow 15.5338
+Node 11 to Node 12 with flow 15.5338
+Node 12 to Node 2 with flow 15.5338
+------------------------------------
+Source, Sink: 10, 3
+--------Maximum flow: 15.0193---------
+Flow through edges in max flow condition: 
+Node 5 to Node 3 with flow 9.03699
+Node 5 to Node 11 with flow 5.98228
+Node 8 to Node 5 with flow 15.0193
+Node 9 to Node 8 with flow 15.0193
+Node 10 to Node 9 with flow 15.0193
+Node 11 to Node 12 with flow 5.98228
+Node 12 to Node 3 with flow 5.98228
+------------------------------------
+Source, Sink: 10, 4
+--------Maximum flow: 30.9567---------
+Flow through edges in max flow condition: 
+Node 5 to Node 4 with flow 30.9567
+Node 8 to Node 5 with flow 30.9567
+Node 9 to Node 8 with flow 30.9567
+Node 10 to Node 9 with flow 30.9567
+------------------------------------
+Source, Sink: 10, 6
+--------Maximum flow: 18.0846---------
+Flow through edges in max flow condition: 
+Node 5 to Node 6 with flow 18.0846
+Node 8 to Node 5 with flow 18.0846
+Node 9 to Node 8 with flow 18.0846
+Node 10 to Node 9 with flow 18.0846
+------------------------------------
+Source, Sink: 10, 7
+--------Maximum flow: 18.0846---------
+Flow through edges in max flow condition: 
+Node 5 to Node 6 with flow 18.0846
+Node 6 to Node 7 with flow 18.0846
+Node 8 to Node 5 with flow 18.0846
+Node 9 to Node 8 with flow 18.0846
+Node 10 to Node 9 with flow 18.0846
+------------------------------------
+Source, Sink: 10, 11
+--------Maximum flow: 27.9608---------
+Flow through edges in max flow condition: 
+Node 4 to Node 11 with flow 13.9073
+Node 5 to Node 4 with flow 13.9073
+Node 5 to Node 11 with flow 14.0534
+Node 8 to Node 5 with flow 27.9608
+Node 9 to Node 8 with flow 27.9608
+Node 10 to Node 9 with flow 27.9608
+------------------------------------
+Source, Sink: 10, 12
+--------Maximum flow: 30.9567---------
+Flow through edges in max flow condition: 
+Node 4 to Node 11 with flow 13.9073
+Node 5 to Node 4 with flow 13.9073
+Node 5 to Node 6 with flow 2.99593
+Node 5 to Node 11 with flow 14.0534
+Node 6 to Node 7 with flow 2.99593
+Node 7 to Node 12 with flow 2.99593
+Node 8 to Node 5 with flow 30.9567
+Node 9 to Node 8 with flow 30.9567
+Node 10 to Node 9 with flow 30.9567
+Node 11 to Node 12 with flow 27.9608
+------------------------------------
+Source, Sink: 10, 13
+--------Maximum flow: 13.0871---------
+Flow through edges in max flow condition: 
+Node 5 to Node 11 with flow 13.0871
+Node 8 to Node 5 with flow 13.0871
+Node 9 to Node 8 with flow 13.0871
+Node 10 to Node 9 with flow 13.0871
+Node 11 to Node 13 with flow 13.0871
+------------------------------------
+Source, Sink: 10, 14
+--------Maximum flow: 13.5324---------
+Flow through edges in max flow condition: 
+Node 5 to Node 11 with flow 13.5324
+Node 8 to Node 5 with flow 13.5324
+Node 9 to Node 8 with flow 13.5324
+Node 10 to Node 9 with flow 13.5324
+Node 11 to Node 12 with flow 13.5324
+Node 12 to Node 14 with flow 13.5324
+------------------------------------
+Source, Sink: 10, 15
+--------Maximum flow: 28.5884---------
+Flow through edges in max flow condition: 
+Node 5 to Node 11 with flow 8.81925
+Node 8 to Node 5 with flow 8.81925
+Node 8 to Node 30 with flow 19.7691
+Node 9 to Node 8 with flow 28.5884
+Node 10 to Node 9 with flow 28.5884
+Node 11 to Node 12 with flow 4.90495
+Node 11 to Node 13 with flow 3.9143
+Node 12 to Node 14 with flow 4.90495
+Node 13 to Node 15 with flow 3.9143
+Node 14 to Node 15 with flow 4.90495
+Node 17 to Node 15 with flow 19.7691
+Node 30 to Node 17 with flow 19.7691
+------------------------------------
+Source, Sink: 10, 16
+--------Maximum flow: 17.0049---------
+Flow through edges in max flow condition: 
+Node 5 to Node 11 with flow 11.6208
+Node 8 to Node 5 with flow 11.6208
+Node 8 to Node 30 with flow 5.38404
+Node 9 to Node 8 with flow 17.0049
+Node 10 to Node 9 with flow 17.0049
+Node 11 to Node 12 with flow 11.6208
+Node 12 to Node 16 with flow 11.6208
+Node 17 to Node 16 with flow 5.38404
+Node 30 to Node 17 with flow 5.38404
+------------------------------------
+Source, Sink: 10, 17
+--------Maximum flow: 19.7691---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 19.7691
+Node 9 to Node 8 with flow 19.7691
+Node 10 to Node 9 with flow 19.7691
+Node 30 to Node 17 with flow 19.7691
+------------------------------------
+Source, Sink: 10, 18
+--------Maximum flow: 19.2395---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 19.2395
+Node 9 to Node 8 with flow 19.2395
+Node 10 to Node 9 with flow 19.2395
+Node 17 to Node 18 with flow 19.2395
+Node 30 to Node 17 with flow 19.2395
+------------------------------------
+Source, Sink: 10, 19
+--------Maximum flow: 28.5884---------
+Flow through edges in max flow condition: 
+Node 5 to Node 11 with flow 8.81925
+Node 8 to Node 5 with flow 8.81925
+Node 8 to Node 30 with flow 19.7691
+Node 9 to Node 8 with flow 28.5884
+Node 10 to Node 9 with flow 28.5884
+Node 11 to Node 12 with flow 4.90495
+Node 11 to Node 13 with flow 3.9143
+Node 12 to Node 14 with flow 4.90495
+Node 13 to Node 15 with flow 3.9143
+Node 14 to Node 15 with flow 4.90495
+Node 15 to Node 19 with flow 24.2796
+Node 17 to Node 15 with flow 15.4603
+Node 17 to Node 18 with flow 4.3088
+Node 18 to Node 19 with flow 4.3088
+Node 30 to Node 17 with flow 19.7691
+------------------------------------
+Source, Sink: 10, 20
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 21
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 22
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 23
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 27
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 28
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 29
+--------Maximum flow: 6.1226---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 6.1226
+Node 9 to Node 8 with flow 6.1226
+Node 10 to Node 9 with flow 6.1226
+Node 17 to Node 31 with flow 6.1226
+Node 30 to Node 17 with flow 6.1226
+Node 31 to Node 29 with flow 6.1226
+------------------------------------
+Source, Sink: 10, 31
+--------Maximum flow: 6.1226---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 6.1226
+Node 9 to Node 8 with flow 6.1226
+Node 10 to Node 9 with flow 6.1226
+Node 17 to Node 31 with flow 6.1226
+Node 30 to Node 17 with flow 6.1226
+------------------------------------
+Source, Sink: 10, 32
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 33
+--------Maximum flow: 14.4474---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 14.4474
+Node 9 to Node 8 with flow 14.4474
+Node 10 to Node 9 with flow 14.4474
+Node 15 to Node 33 with flow 7.68791
+Node 17 to Node 15 with flow 7.68791
+Node 30 to Node 17 with flow 7.68791
+Node 30 to Node 38 with flow 6.7595
+Node 37 to Node 33 with flow 6.7595
+Node 38 to Node 37 with flow 6.7595
+------------------------------------
+Source, Sink: 10, 34
+--------Maximum flow: 18.4505---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 18.4505
+Node 9 to Node 8 with flow 18.4505
+Node 10 to Node 9 with flow 18.4505
+Node 30 to Node 38 with flow 18.4505
+Node 37 to Node 34 with flow 18.4505
+Node 38 to Node 37 with flow 18.4505
+------------------------------------
+Source, Sink: 10, 35
+--------Maximum flow: 18.4505---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 18.4505
+Node 9 to Node 8 with flow 18.4505
+Node 10 to Node 9 with flow 18.4505
+Node 30 to Node 38 with flow 18.4505
+Node 37 to Node 35 with flow 18.4505
+Node 38 to Node 37 with flow 18.4505
+------------------------------------
+Source, Sink: 10, 36
+--------Maximum flow: 18.4505---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 18.4505
+Node 9 to Node 8 with flow 18.4505
+Node 10 to Node 9 with flow 18.4505
+Node 30 to Node 38 with flow 18.4505
+Node 34 to Node 36 with flow 18.4505
+Node 37 to Node 34 with flow 18.4505
+Node 38 to Node 37 with flow 18.4505
+------------------------------------
+Source, Sink: 10, 39
+--------Maximum flow: 9.02903---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 9.02903
+Node 9 to Node 8 with flow 9.02903
+Node 10 to Node 9 with flow 9.02903
+Node 30 to Node 38 with flow 9.02903
+Node 37 to Node 39 with flow 9.02903
+Node 38 to Node 37 with flow 9.02903
+------------------------------------
+Source, Sink: 10, 40
+--------Maximum flow: 14.642---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 14.642
+Node 9 to Node 8 with flow 14.642
+Node 10 to Node 9 with flow 14.642
+Node 30 to Node 38 with flow 14.642
+Node 37 to Node 39 with flow 9.02903
+Node 37 to Node 40 with flow 5.61298
+Node 38 to Node 37 with flow 14.642
+Node 39 to Node 40 with flow 9.02903
+------------------------------------
+Source, Sink: 10, 41
+--------Maximum flow: 14.642---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 14.642
+Node 9 to Node 8 with flow 14.642
+Node 10 to Node 9 with flow 14.642
+Node 30 to Node 38 with flow 14.642
+Node 37 to Node 39 with flow 9.02903
+Node 37 to Node 40 with flow 5.61298
+Node 38 to Node 37 with flow 14.642
+Node 39 to Node 40 with flow 9.02903
+Node 40 to Node 41 with flow 14.642
+------------------------------------
+Source, Sink: 10, 42
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 43
+--------Maximum flow: 5.77704---------
+Flow through edges in max flow condition: 
+Node 8 to Node 30 with flow 5.77704
+Node 9 to Node 8 with flow 5.77704
+Node 10 to Node 9 with flow 5.77704
+Node 30 to Node 38 with flow 5.77704
+Node 34 to Node 43 with flow 5.77704
+Node 37 to Node 34 with flow 5.77704
+Node 38 to Node 37 with flow 5.77704
+------------------------------------
+Source, Sink: 10, 44
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 45
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 46
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 47
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 48
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 49
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 50
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 51
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 52
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 53
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 54
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 55
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 56
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 57
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 58
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 59
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 60
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 62
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 66
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 67
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 70
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 74
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 75
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 76
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 77
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 78
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 79
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 80
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 82
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 83
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 84
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 85
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 86
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 88
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 90
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 92
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 93
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 94
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 95
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 96
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 97
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 98
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 100
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 101
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 102
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 103
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 104
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 105
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 106
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 107
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 108
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 109
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 110
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 112
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 114
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 115
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 10, 117
+--------Maximum flow: 6.95344---------
+Flow through edges in max flow condition: 
+Node 5 to Node 11 with flow 6.95344
+Node 8 to Node 5 with flow 6.95344
+Node 9 to Node 8 with flow 6.95344
+Node 10 to Node 9 with flow 6.95344
+Node 11 to Node 12 with flow 6.95344
+Node 12 to Node 117 with flow 6.95344
+------------------------------------
+Source, Sink: 10, 118
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 1
+--------Maximum flow: 15.5614---------
+Flow through edges in max flow condition: 
+Node 2 to Node 1 with flow 9.5791
+Node 3 to Node 1 with flow 5.98228
+Node 12 to Node 2 with flow 9.5791
+Node 12 to Node 3 with flow 5.98228
+------------------------------------
+Source, Sink: 12, 2
+--------Maximum flow: 15.5338---------
+Flow through edges in max flow condition: 
+Node 12 to Node 2 with flow 15.5338
+------------------------------------
+Source, Sink: 12, 3
+--------Maximum flow: 5.98228---------
+Flow through edges in max flow condition: 
+Node 12 to Node 3 with flow 5.98228
+------------------------------------
+Source, Sink: 12, 4
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 6
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 7
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 11
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Same source and sink: 12, 12
+Source, Sink: 12, 13
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 14
+--------Maximum flow: 13.5324---------
+Flow through edges in max flow condition: 
+Node 12 to Node 14 with flow 13.5324
+------------------------------------
+Source, Sink: 12, 15
+--------Maximum flow: 4.90495---------
+Flow through edges in max flow condition: 
+Node 12 to Node 14 with flow 4.90495
+Node 14 to Node 15 with flow 4.90495
+------------------------------------
+Source, Sink: 12, 16
+--------Maximum flow: 11.6208---------
+Flow through edges in max flow condition: 
+Node 12 to Node 16 with flow 11.6208
+------------------------------------
+Source, Sink: 12, 17
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 18
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 19
+--------Maximum flow: 4.90495---------
+Flow through edges in max flow condition: 
+Node 12 to Node 14 with flow 4.90495
+Node 14 to Node 15 with flow 4.90495
+Node 15 to Node 19 with flow 4.90495
+------------------------------------
+Source, Sink: 12, 20
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 21
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 22
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 23
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 27
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 28
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 29
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 31
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 32
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 33
+--------Maximum flow: 4.90495---------
+Flow through edges in max flow condition: 
+Node 12 to Node 14 with flow 4.90495
+Node 14 to Node 15 with flow 4.90495
+Node 15 to Node 33 with flow 4.90495
+------------------------------------
+Source, Sink: 12, 34
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 35
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 36
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 39
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 40
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 41
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 42
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 43
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 44
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
+Source, Sink: 12, 45
+--------Maximum flow: 0---------
+Flow through edges in max flow condition: 
+------------------------------------
