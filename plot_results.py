@@ -23,7 +23,7 @@ def plot_results():
 	markerline, stemline, baseline, = ax.stem(node_array, node_centrality_array)
 	plt.setp(markerline, markersize = 3)
 	ax.set_xlim([0,120])
-	ax.set_ylim([0,0.15])
+	ax.set_ylim([0,0.103])
 	ax.set_xlabel('Bus Number')
 	ax.set_ylabel('Centrality index')
 	ax.set_title('Centrality indices for IEEE 118 Bus System')
@@ -36,7 +36,7 @@ def get_attacks_data():
 	with open("data_files/attacks_data.csv",'r') as csvfile:
 		plots = csv.reader(csvfile, delimiter=',')
 		for row in plots:
-			data = []
+			data = [100]
 			for i in range(len(row)-2):
 				data.append(float(row[i+1]))
 			if row[0] == "Random":
@@ -49,25 +49,24 @@ def get_attacks_data():
 		data1 = [a[i] for a in random_attacks_data]
 		random_attacks_mean.append(mean(data1))
 		random_attacks_sd.append(stdev(data1))
-	# print(random_attacks_sd)
-	x_data = [(i+1) for i in range(len(random_attacks_mean))]
+
+	x_data = [i for i in range(len(random_attacks_mean))]
 	fig = plt.figure(2)
 	ax = fig.add_subplot(111)
-	ax.plot(x_data, random_attacks_mean, label='Random Attacks')
-	ax.scatter(x_data, random_attacks_mean)
-	ax.plot(x_data, target_attacks_data, label = 'Targeted Attacks')
-	ax.scatter(x_data, target_attacks_data)
+	ax.plot(x_data, random_attacks_mean, marker='o', label='Random Attacks')
+	ax.plot(x_data, target_attacks_data, marker='o', label = 'Targeted Attacks')
 	ax.errorbar(x_data, random_attacks_mean, yerr=random_attacks_sd, alpha=0.5, ecolor='black')
-	ax.set_xlim([1,len(random_attacks_mean)])
-	ax.set_ylim([50,100])
+	ax.set_xlim([0,len(random_attacks_mean)-1])
+	ax.set_ylim([50,105])
 	ax.set_xlabel('Number of attacks')
 	ax.set_ylabel('Maximum flow capacity (%)')
 	ax.set_title('Effect of attacks on maximum flow')
 	ax.grid()
+	ax.legend()
 	fig.savefig('images/attacks.png')
 
 if __name__ == '__main__':
-	# get_data_from_files()
-	# plot_results()
+	get_data_from_files()
+	plot_results()
 	get_attacks_data()
 	plt.show()
